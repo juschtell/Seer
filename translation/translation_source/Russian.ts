@@ -193,22 +193,22 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Открыть с помощью приложения по умолчанию</translation>
+        <translation>Открыть с помощью приложения по умолчанию</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Показать в проводнике</translation>
+        <translation>Показать в проводнике</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Больше</translation>
+        <translation>Больше</translation>
     </message>
 </context>
 <context>
@@ -305,59 +305,59 @@
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Комментарии</translation>
     </message>
     <message>
         <source>Internal Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутреннее имя</translation>
     </message>
     <message>
         <source>Product Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Название продукта</translation>
     </message>
     <message>
         <source>Company Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Название компании</translation>
     </message>
     <message>
         <source>Legal Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Защита авторских прав</translation>
     </message>
     <message>
         <source>Product Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>File Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание файла</translation>
     </message>
     <message>
         <source>Legal Trademarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Юридические Товарные Знаки</translation>
     </message>
     <message>
         <source>Private Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Частная сборка</translation>
     </message>
     <message>
         <source>File Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия файла</translation>
     </message>
     <message>
         <source>Original Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходное название файла</translation>
     </message>
     <message>
         <source>Special Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Специальная сборка</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробности</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Расширение</translation>
+        <translation>Расширение</translation>
     </message>
 </context>
 <context>
@@ -455,7 +455,7 @@
     </message>
     <message>
         <source>The system default application not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Системное приложение по умолчанию не найдено.</translation>
     </message>
 </context>
 <context>
@@ -575,103 +575,103 @@
     </message>
     <message>
         <source>Camera make</source>
-        <translation type="unfinished"></translation>
+        <translation>Производитель камеры</translation>
     </message>
     <message>
         <source>Camera model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель камеры</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Программное обеспечение</translation>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Бит на сэмпл</translation>
     </message>
     <message>
         <source>Image width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина изображения</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation type="unfinished"></translation>
+        <translation>Высота изображения</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Описание изображения</translation>
     </message>
     <message>
         <source>Image copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторские права на изображение</translation>
     </message>
     <message>
         <source>Image datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата и время изображения</translation>
     </message>
     <message>
         <source>Original datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходные дата и время</translation>
     </message>
     <message>
         <source>Digitize datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата и время оцифровки</translation>
     </message>
     <message>
         <source>Subsecond time</source>
-        <translation type="unfinished"></translation>
+        <translation>Субсекундое время</translation>
     </message>
     <message>
         <source>Exposure time</source>
-        <translation type="unfinished"></translation>
+        <translation>Время выдержки</translation>
     </message>
     <message>
         <source>F-stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Относительное отверстие</translation>
     </message>
     <message>
         <source>ISO speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость ISO</translation>
     </message>
     <message>
         <source>Subject distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Расстояние до объекта</translation>
     </message>
     <message>
         <source>Exposure bias</source>
-        <translation type="unfinished"></translation>
+        <translation>Смещение экспозиции</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Флеш</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим экспозамера</translation>
     </message>
     <message>
         <source>Lens focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Фокусное расстояние объектива</translation>
     </message>
     <message>
         <source>35mm focal length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фокусное расстояние в 35 мм</translation>
     </message>
     <message>
         <source>GPS Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-широта</translation>
     </message>
     <message>
         <source>GPS Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-долгота</translation>
     </message>
     <message>
         <source>GPS Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-высота</translation>
     </message>
     <message>
         <source>GPS Precision (DOP)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS в точности (DOP)</translation>
     </message>
     <message>
         <source>Lens min focal length</source>
@@ -679,23 +679,23 @@
     </message>
     <message>
         <source>Lens max focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное фокусное расстояние</translation>
     </message>
     <message>
         <source>Lens f-stop min</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин. относительное отверстие объектива</translation>
     </message>
     <message>
         <source>Lens f-stop max</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. относительное отверстие объектива</translation>
     </message>
     <message>
         <source>Lens make</source>
-        <translation type="unfinished"></translation>
+        <translation>Произоводитель объектива</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель объектива</translation>
     </message>
     <message>
         <source>Focal plane XRes</source>
